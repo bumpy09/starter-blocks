@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="kYb{voh18dl#*#V_@?:h">list</variable></variables><block type="function_definition" id="8-0WptTH^2uC||ijD{?@" collapsed="true" x="1" y="-305"><mutation name="❤️😍" functionid="+_-Uyo[H?h`curh++]bI"><arg name="number" id="fTS#@Q/Q/2/^583K?:6:" type="number"></arg><arg name="1" id="%FpD_Q!VE0%a,UT|vnS5" type="Array"></arg></mutation><field name="function_name">❤️😍</field><statement name="STACK"><block type="playMelody" id="E8L1FKFR]InC^Q8=,~bj"><value name="melody"><shadow type="melody_editor" id="ip={Xx76@v~?{ZJv?F0("><field name="melody">"C5 B A F A G C5 A "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="*2:/j[7d!G3^PO5XDDV8"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="device_show_leds" id="yMN+?_nblP%bl}1C2_gO"><field name="LEDS">`
+        # # # . . 
+        # # # . . 
+        . . # . . 
+        # # # # # 
+        . # # # #
+        `</field><next><block type="basic_show_icon" id="E%/Q+$|ih3Qsh)^F#=Dn"><field name="i">IconNames.Chessboard</field></block></next></block></next></block></statement></block><block type="function_definition" id="GC4hrbcaQ4cUC)x1{2p0" collapsed="true" x="0" y="-143"><mutation name="😍❤️" functionid="sEU?`B:lC$M_]xWvp6k="><arg name="number" id="H=~+jC[=p_dhGIOPSQiR" type="number"></arg><arg name="2" id=":-]0J8O1$b1a]94pbB@6" type="Array"></arg></mutation><field name="function_name">😍❤️</field><statement name="STACK"><block type="playMelody" id="}8ya5IX1iUV8H0`uuBH^"><value name="melody"><shadow type="melody_editor" id="3P9A$xgIbFQP}J=^D|k/"><field name="melody">"C5 B C5 B G F C A "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="O7Y!kCUS[+/GzsKi`wop"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_icon" id="lC2FLe,7u3_E{m=GmrV`"><field name="i">IconNames.QuarterNote</field><next><block type="basic_show_icon" id="6.d^N_*8#/Pc^9gM.WOZ"><field name="i">IconNames.EigthNote</field><next><block type="basic_show_icon" id="15%Z@=V4@+dUrieD4z;T"><field name="i">IconNames.QuarterNote</field><next><block type="device_show_leds" id="FE?YJ5x([ho?@yqfh6Mp"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="XINhL$po*H({]Q5ZmJ``" collapsed="true" x="585" y="-121"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="function_call" id="xDJEI7c@~h?m~y@,St?X"><mutation name="❤️😍" functionid="+_-Uyo[H?h`curh++]bI"><arg name="number" id="fTS#@Q/Q/2/^583K?:6:" type="number"></arg><arg name="1" id="%FpD_Q!VE0%a,UT|vnS5" type="Array"></arg></mutation><value name="fTS#@Q/Q/2/^583K?:6:"><shadow type="math_number" id="(h^,;c[b{JdHldLH%lQe"><field name="NUM">1</field></shadow></value><value name="%FpD_Q!VE0%a,UT|vnS5"><shadow type="variables_get" id="%DwV9Y;1X6hd6Sjwble`"><field name="VAR" id="kYb{voh18dl#*#V_@?:h">list</field></shadow></value><next><block type="device_show_leds" id="onpWc6jh_=,14m#NGE[!"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="]]aT;k#Rn/xh6k50$H}F"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="function_call" id="*)$B/%I`OmBiic:4R{b`"><mutation name="😍❤️" functionid="sEU?`B:lC$M_]xWvp6k="><arg name="number" id="H=~+jC[=p_dhGIOPSQiR" type="number"></arg><arg name="2" id=":-]0J8O1$b1a]94pbB@6" type="Array"></arg></mutation><value name="H=~+jC[=p_dhGIOPSQiR"><shadow type="math_number" id="3~f[G8WU.{.G@(b%yK^u"><field name="NUM">2</field></shadow></value><value name=":-]0J8O1$b1a]94pbB@6"><shadow type="variables_get" id="AT|!?|/JTaf4rLRe]E?Z"><field name="VAR" id="kYb{voh18dl#*#V_@?:h">list</field></shadow></value><next><block type="device_show_leds" id="]@Z`$TZ14w7I!faBZwm*"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="2+R{hXv4@pu+Tf[.GlZa"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        . # # # . 
+        # . . . #
+        `</field><next><block type="function_call" id="j`p=`^pHjp]+VLNJad-8"><mutation name="💕😍❤️" functionid="zcIMOxcFlN5s.PD!}ezi"><arg name="number" id="UIhe3s`euAJMxip6WB9," type="number"></arg><arg name="3" id="FDs!!pHhpqMx[q3Spkda" type="Array"></arg></mutation><value name="UIhe3s`euAJMxip6WB9,"><shadow type="math_number" id=".fd*]rpd-@hM@vbMIqYg"><field name="NUM">3</field></shadow></value><value name="FDs!!pHhpqMx[q3Spkda"><shadow type="variables_get" id="b~|(Rz)tJKjNXIx=.Ncm"><field name="VAR" id="kYb{voh18dl#*#V_@?:h">list</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="function_definition" id="tIG$KDgG:;o)Pr{N$#tF" collapsed="true" x="0" y="0"><mutation name="💕😍❤️" functionid="zcIMOxcFlN5s.PD!}ezi"><arg name="number" id="UIhe3s`euAJMxip6WB9," type="number"></arg><arg name="3" id="FDs!!pHhpqMx[q3Spkda" type="Array"></arg></mutation><field name="function_name">💕😍❤️</field><statement name="STACK"><block type="edubit_show_color" id="-a]%I|{ojzS:Rwh:)=kc"><value name="color"><shadow type="colorNumberPicker" id="s2Tdm}GOmm6}c)i8@~2V"><field name="value">0xff0000</field></shadow></value><next><block type="edubit_show_color" id="@N2QYCd[QvuFY@qyS*yI"><value name="color"><shadow type="colorNumberPicker" id="gPdxz%_xnR1|^82rGq[G"><field name="value">0xff8000</field></shadow></value><next><block type="edubit_show_color" id="3d[,bZ*is@@f(,/!Y@|4"><value name="color"><shadow type="colorNumberPicker" id="ek]-t%BqC6hWJ=2wlvl4"><field name="value">0xffff00</field></shadow></value></block></next></block></next></block></statement></block></xml>
