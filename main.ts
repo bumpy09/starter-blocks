@@ -45,8 +45,6 @@ function _️ (number: number, _1: any[]) {
 }
 function _️3 (number: number, _3: any[]) {
     edubitRgbBit.showColor(0xff0000)
-    edubitRgbBit.showColor(0xff8000)
-    edubitRgbBit.showColor(0xffff00)
 }
 function _️2 (number: number, _2: any[]) {
     music.playMelody("C5 B C5 B G F C A ", 120)

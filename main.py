@@ -45,8 +45,6 @@ def _️(number: number, _1: List[any]):
     basic.show_icon(IconNames.CHESSBOARD)
 def _️3(number2: number, _3: List[any]):
     edubitRgbBit.show_color(0xff0000)
-    edubitRgbBit.show_color(0xff8000)
-    edubitRgbBit.show_color(0xffff00)
 def _️2(number3: number, _2: List[any]):
     music.play_melody("C5 B C5 B G F C A ", 120)
     basic.show_icon(IconNames.QUARTER_NOTE)
